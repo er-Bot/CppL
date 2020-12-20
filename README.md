@@ -13,6 +13,6 @@ make
 then
 
 ```bash
-./bin/...
+./bin/nlo
 ```
 
